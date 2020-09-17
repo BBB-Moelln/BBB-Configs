@@ -310,8 +310,8 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "<br> Mit Hilfe des Open-Source-Projekts BigBlueButton können wir Online-Seminare anbieten gemäß Artikel 57 DS-GVO. <br><br> Hiermit machen wir darauf aufmerksam, dass dieser Server nicht mit BigBlueButton Inc. in Verbindung steht."
-    welcome: Willkommen beim BigBlueButton-Server des Landesbeauftragten f&uuml;r Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern.
+    about: ""
+    welcome: Willkommen beim BigBlueButton-Server der Stadt Mölln.
     video: ""
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
